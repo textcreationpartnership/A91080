@@ -1,0 +1,993 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proposall humbly offered, for the farming of liberty of conscience</title>
+            <author>Butler, Samuel, 1612-1680.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91080</idno>
+            <idno type="STC">Wing P3705</idno>
+            <idno type="STC">ESTC R26476</idno>
+            <idno type="EEBO-CITATION">99899404</idno>
+            <idno type="PROQUEST">99899404</idno>
+            <idno type="VID">153073</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91080)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153073)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2346:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proposall humbly offered, for the farming of liberty of conscience</title>
+                  <author>Butler, Samuel, 1612-1680.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>Printed in the year, 1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: B.G., i.e. Samuel Butler.</note>
+                  <note>In this edition A2r catchword is "are". B1v, B2, and C2 are in the same setting as Wing B6329.</note>
+                  <note>Formerly Wing B6330 (number cancelled in CD-ROM).</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Liberty of conscience --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153073:1" rendition="simple:additions"/>
+            <p>A PROPOSALL Humbly Offered, FOR THE FARMING OF Liberty of Conſcience.</p>
+            <p>Printed in the Year, 1663.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:153073:2"/>
+            <pb n="1" facs="tcp:153073:2"/>
+            <head>A PROPOSALL HUMBLY OFFERED, For the Farming of Liberty of Conſcience.</head>
+            <p>
+               <seg rend="decorInit">S</seg>Ince nothing can be dearer unto poor Chriſtians, then Liberty, for the Free Exerciſe of their Iudg<g ref="char:EOLhyphen"/>ments and Conſcience, which hath kindled that Fire in the Bowels of the three Kingdoms, which all the pretious Blood that hath been ſhed, during theſe late Troubles, hath not been able totally to extinguiſh: And ſince many of us, whoſe Names are affixed, were ſo profitably Inſtrumental in theſe late Combuſtions, as appears all along in our Sermons, before the Honorable Houſe of Parliament, in the Years, 1642, 43, 44, 45, 46. in exciting the good People of this Nation, to ſeek and maintain their Chriſtian Liberty, againſt all Prelatical and Antichriſtian Im<g ref="char:EOLhyphen"/>poſition whatſoever. And conſidering, that the little Finger of Apo<g ref="char:EOLhyphen"/>ſtacie, from our firſt Love, would be a greater Burden upon our Tender Conſciences then the Loyns of Epiſcopacy, we being more bound in Honour then Conſcience cannot totally deſiſt; Neither need any man fear, or ſo much as ſuſpect, leſt any inconvenience or Altera<g ref="char:EOLhyphen"/>tion ſhould happen in Religion by the great diverſity of Opinions, Tongues and Languages, tolerated amongſt us, unleſs in the great Babel of Epiſcopacy that may poſsibly be pull'd down and deſtroyed by this our notable Confuſion: For if the Goſpel was wonderfully diſſeminated and ſpread abroad by every mans ſpeaking in his own Language, and the very Enemies thereof aſtoniſhed and miraculouſly wrought into a belief of it; how is it likely to be now obſtructed in the free exerciſe of our Spiritual Gifts with theſe our cloven and di<g ref="char:EOLhyphen"/>vided Tongues?</p>
+            <p>And ſince many Worthy perſons (from whom we might little ex<g ref="char:EOLhyphen"/>pect it, but far leſſe deſerve it) out of their Goodneſſe and Clemency,
+<pb n="2" facs="tcp:153073:3"/> are pleaſed to incline to ſome Libertie, did not ſome perſons, Aliens and Strangers to the Commonwealth of Iſrael take up a reproach againſt us, as perſons reprobated into an unpoſſibility of ſubmiſſion to Principles of Concord, Peace, and Order in Church or State, never being able hitherto to come to any Conſiſtency amongſt our ſelves the Ark of God having for twenty years together been expo<g ref="char:EOLhyphen"/>ſed to High-wayes Streets, and worſe places, for want of an agree<g ref="char:EOLhyphen"/>ment amongſt our own Brethren, where to reſt it, or how to enter<g ref="char:EOLhyphen"/>tain it.</p>
+            <p>If this be our Caſe, and could we be ſure of ſo much favour as <hi>Saul</hi> once deſired of <hi>Samuel,</hi> That the Biſhops would but honour us before the People, we would in a private Chriſtian way lay our hands upon our hearts, and acknowledg the hand of God and the Iuſtice thereof, in turning us out of his Vineyard as wicked and unprofit<g ref="char:EOLhyphen"/>able ſervants, and to ſuffer the iniquity of our heels to overtake us, Crying out with Reverend Mr. <hi>Calamy,</hi> The Ark of God is juſtly departed from us: But being not yet thus aſſured, do hope the peo<g ref="char:EOLhyphen"/>ple will yet believe theſe to be only Bears Skins lappt about us by Epiſcopal hands: And therefore, to the end that a Conſiſtencie and Oneneſſe of Iudgment of the whole ſeparating Brethren, and their Moderation may be known unto all men, and that the world may know, there is a ſpirit of Rule and Government reſting in us,</p>
+            <p>It is humbly Propoſed, That the ſole power of Granting Li<g ref="char:EOLhyphen"/>cenſes and Indulgences for Liberty of Conſcience within the Kingdome of England, Dominion of Wales, and Town of Barwick, may be Veſted in the Perſons under-named, for the Terme of Seven Years, under the Farm Rent of An hundred thouſand Pound <hi>per annum,</hi> to Commence from the 25<hi rend="sup">th</hi>. day of March next, under ſuch Rates and Qualifications as are hereafter ſpecified.</p>
+            <pb n="3" facs="tcp:153073:3"/>
+            <list>
+               <head>The Names of the Grand Commiſſioners and Farmers of <hi>Liberty of Conſcience;</hi> propoſed on yeſterday, being Munday, <hi>March 2. 1662.</hi> being the day of a Private Faſt kept by Mr. <hi>Calamy,</hi> Mr. <hi>Baxter,</hi> and others, at Mr. <hi>Beal's</hi> houſe, near my Lord of <hi>Ely</hi>'s Chappel in <hi>Holborn.</hi>
+               </head>
+               <item>
+                  <hi>Mr. <hi>Edmond Calamy</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Mr. <hi>Tilham,</hi> late of <hi>Colcheſter</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Mr. <hi>Philip Nye</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Mr. <hi>Feake.</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Mr. <hi>Stanley Gower of Dorcheſter.</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>George Fox, <hi>Executor of the laſt Will and Teſtament of</hi> James Nailor <hi>deceaſed.</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Doctor <hi>Lazarus Seaman</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Mr. <hi>Dell, late of Cambridge.</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Doctor Owen</hi>
+               </item>
+               <item>
+                  <hi>Mr. <hi>Bryan,</hi> late of <hi>Coventry.</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Mr. <hi>Matthew Mead</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Mr. <hi>John Coppin</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Doctor <hi>Manton</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Mr. <hi>Kiffen</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Mr. <hi>William Jenkins</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Mr. <hi>Fiſher,</hi> late of <hi>Kent.</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Doctor <hi>Thomas Goodwin</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Mr. <hi>Hammond,</hi> late of <hi>Newcaſtle.</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Mr. <hi>Peter Sterry</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Mr. <hi>Bridges,</hi> late of <hi>Yarmouth.</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Mr. <hi>Joſeph Carroll</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Mr. <hi>Tombes,</hi> late of <hi>Lemſter.</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Mr. <hi>Leigh,</hi> late of <hi>Lumbard ſtreet.</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>The Executor of Mr. <hi>Venner</hi> lately Executed.</hi>
+               </item>
+               <item>
+                  <hi>Mr. <hi>Thomas Caſe</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Mr. <hi>Reynor,</hi> late of <hi>Lincoln.</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Mr. <hi>Raph Venning</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Mr. <hi>Rogers</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Mr. <hi>Benn,</hi> late of <hi>Dorcheſter.</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Mr. <hi>George Griffith,</hi> late of <hi>Charter-houſe.</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>The Executor of <hi>Hugh Peters</hi> lately Executed.</hi>
+               </item>
+               <item>
+                  <hi>Mr. <hi>George Newton,</hi> late of <hi>Taunton.</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Mr. <hi>Dan Dyke,</hi> late of <hi>Hertford-ſhire.</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Mr. <hi>Mayo,</hi> late of <hi>Kingſton.</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Mr. <hi>Joſhua Sprigg.</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Mr. <hi>Henry Jeſſey.</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Mr. <hi>Newcomen</hi> of <hi>Dedham</hi> in <hi>Eſſex.</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Doctor <hi>Tuckney</hi> of <hi>Cambridge.</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Doctor <hi>Cornelius Burges.</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Mr <hi>Zachary Crofton</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Doctor <hi>Holmes.</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Mr. <hi>John Cann</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Mr. <hi>Thomas Brooks.</hi>
+                  </hi>
+               </item>
+            </list>
+            <p>That the Perſons aforeſaid, may be conſtituted <hi>Grand Commiſſio<g ref="char:EOLhyphen"/>ners,</hi> and <hi>Farmers</hi> of <hi>Liberty of Conſcience,</hi> within the Kingdom of <hi>England,</hi> Dominion of <hi>Wales,</hi> and Town of <hi>Berwick,</hi> and may be im<g ref="char:EOLhyphen"/>powred to ſet up one Publique Office within the City of <hi>London</hi> and to nominate and elect a convenient number of Regiſters Clerk, and other Officers: And for the more certainty of all Certificates to be granted as is hereafter appointed, The ſaid Grand Commiſſioners and Farmers may form a common Seal to be known, and called by the name of <hi>The Publique Seal of the Grand Commiſsioners and Far<g ref="char:EOLhyphen"/>mers of Liberty of Conſcience</hi> engraven. <hi>An Aſs without Ears, Bray<g ref="char:EOLhyphen"/>ing,</hi> with this Motto incircled <hi>Star pro ratione libertas:</hi> And the ſaid Grand Commiſſioners and Farmers, or any <hi>24</hi> of them in the ſaid Office aſſembled, may from time to time, compound and agree for <hi>Li<g ref="char:EOLhyphen"/>berty of Conſcience,</hi> with any perſon or perſons, under ſuch Rates and Qualifications, as are hereafter ſpecified.</p>
+            <pb n="4" facs="tcp:153073:4"/>
+            <p>That the ſaid Grand Commiſſioners and Farmers, or any <hi>24</hi> of them, may conſtitute and appoint, under the Publique Seal of the Office, Sub-Commiſſioners, and other Officers, for every Countie within the ſaid Kingdom, not exceeding the number of <hi>12.</hi> for each County whereof <hi>7</hi> to be a <hi>Quorum,</hi> who may compound and agree for <hi>Liberty of Conſcience,</hi> with any perſon or perſons, ſelect Congre<g ref="char:EOLhyphen"/>gations, Cities, Towns Corporate, Pariſhes Hamlets, and Villages, by the great, or otherwiſe, within their reſpective Countries, not ex<g ref="char:EOLhyphen"/>ceeding the Rates hereafter mentioned.</p>
+            <p>
+               <table>
+                  <head>Rates to be obſerved in all Compoſitions for Liberty of CONSCIENCE.</head>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label" cols="3">
+                        <hi>Per Annum.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>A Presbyterian Miniſter</hi>
+                     </cell>
+                     <cell>
+                        <hi>5</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>A Ruling Elder</hi>
+                     </cell>
+                     <cell>
+                        <hi>4</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>A Deacon</hi>
+                     </cell>
+                     <cell>
+                        <hi>3</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>A Hearer Male or Female in Fellowſhip to all Ordinances</hi>
+                     </cell>
+                     <cell>
+                        <hi>2</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>A Common Hearer only</hi>
+                     </cell>
+                     <cell>
+                        <hi>1</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>An Independant Paſtor</hi>
+                     </cell>
+                     <cell>
+                        <hi>5</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>A Teaching Elder</hi>
+                     </cell>
+                     <cell>
+                        <hi>4</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>A Helper in Government</hi>
+                     </cell>
+                     <cell>
+                        <hi>3</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>A Deacon</hi>
+                     </cell>
+                     <cell>
+                        <hi>3</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>A Hearer male or female in Fellowſhip to all Ordinances</hi>
+                     </cell>
+                     <cell>
+                        <hi>2</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>A common Hearer only</hi>
+                     </cell>
+                     <cell>
+                        <hi>1</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>A Baptiſt admitted to the Adminiſtration of all Ordinances</hi>
+                     </cell>
+                     <cell>
+                        <hi>5</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>A Preaching aſſiſtant</hi>
+                     </cell>
+                     <cell>
+                        <hi>4</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>An Elder in Office</hi>
+                     </cell>
+                     <cell>
+                        <hi>3</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>A Deacon</hi>
+                     </cell>
+                     <cell>
+                        <hi>2</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>A Hearer in Fellowſhip male or female to all Ordinances</hi>
+                     </cell>
+                     <cell>
+                        <hi>2</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>A common Hearer only</hi>
+                     </cell>
+                     <cell>
+                        <hi>1</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>A Fifth Monarcher admitted to hold forth</hi>
+                     </cell>
+                     <cell>
+                        <hi>5</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>An Elder under the ſame Adminiſtration</hi>
+                     </cell>
+                     <cell>
+                        <hi>3</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>A Deacon under the ſame Adminiſtration</hi>
+                     </cell>
+                     <cell>
+                        <hi>3</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>A Hearer male or female in Fellowſhip according to the value of his or her Eſtate 2 s. <hi>per l. per annum.</hi>
+                        </hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>A common hearer male or Female according to the value of his or her Eſtate 12 d. <hi>per l. per annum.</hi>
+                        </hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>A ſpeaking male Quaker</hi>
+                     </cell>
+                     <cell>
+                        <hi>4</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>A ſpeaking female Quaker</hi>
+                     </cell>
+                     <cell>
+                        <hi>3</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>A common Quaker male or female</hi>
+                     </cell>
+                     <cell>
+                        <hi>2</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                  </row>
+                  <pb n="5" facs="tcp:153073:4"/>
+                  <row>
+                     <cell>
+                        <hi>A Confeſſor</hi>
+                     </cell>
+                     <cell>
+                        <hi>6</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>A Seminary or Maſs-Prieſt at large</hi>
+                     </cell>
+                     <cell>
+                        <hi>5</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>A private Maſs-Prieſt</hi>
+                     </cell>
+                     <cell>
+                        <hi>4</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>A Roman Catholick in any other order</hi>
+                     </cell>
+                     <cell>
+                        <hi>3</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>A Roman Catholick not in order male or Female</hi>
+                     </cell>
+                     <cell>
+                        <hi>1</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>An Officer under any Adminiſtration not mentioned in the rates aforeſaid being a Native of England, ſuch only excepted as ſtand Conformable to the Church of England</hi>
+                     </cell>
+                     <cell>
+                        <hi>5</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>A common perſon under any Adminiſtration not mentioned in the rates aforeſaid being a Native of England, ſuch only ex<g ref="char:EOLhyphen"/>cepted as ſtand conformable to the Church of England</hi>
+                     </cell>
+                     <cell>
+                        <hi>2</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>An Officer under any Adminiſtration whatſoever not a Native of England, except conformable to the Church of England</hi>
+                     </cell>
+                     <cell>
+                        <hi>10</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>A private perſon under any Adminiſtration whatſoever not a Native of England, except conformable to the Church of England</hi>
+                     </cell>
+                     <cell>
+                        <hi>5</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Rates to be obſerved in compounding for Liberty of Conſcience in the particulars following, viz.</head>
+                  <row>
+                     <cell>
+                        <hi>For Liberty to aſſert the Popes Supremacy</hi>
+                     </cell>
+                     <cell>
+                        <hi>10</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>For Liberty to write, ſpeak, or Preach againſt the Government as they ſhall be inwardly moved</hi>
+                     </cell>
+                     <cell>
+                        <hi>5</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>For liberty to keep on their Hats before Magiſtrates, or in Courts of Judicature</hi>
+                     </cell>
+                     <cell>
+                        <hi>2</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>For Liberty to rail publickly againſt the Biſhops and Common Prayer</hi>
+                     </cell>
+                     <cell>
+                        <hi>1</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>For Liberty to refuſe all manner of Oaths, of Allegiance and Su<g ref="char:EOLhyphen"/>premacy, or in Caſes Civil or Criminal</hi>
+                     </cell>
+                     <cell>
+                        <hi>2</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>For liberty to deny Tythes and other Church Duties</hi>
+                     </cell>
+                     <cell>
+                        <hi>1</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>For liberty to expound the <hi>Revelations</hi> and the Book of <hi>Daniel</hi>
+                        </hi>
+                     </cell>
+                     <cell>
+                        <hi>1</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>For Liberty to diſturb any Congregation after Sermon</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>10</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>For Liberty to aſſert the Solemn League and Covenant</hi>
+                     </cell>
+                     <cell>
+                        <hi>1</hi>
+                     </cell>
+                     <cell>
+                        <hi>5</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>For Liberty to inſtruct youth in the ſhort Catechiſm ſet forth by the Aſſembly of Divines</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>10</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>That any perſon or perſons gifted for any the Particulars above<g ref="char:EOLhyphen"/>ſaid, may have liberty therein either as an <hi>Itinerate,</hi> in private or Publique, at the Rates aboveſaid.</p>
+            <p>That no perſon or perſons be admitted to compound for <hi>Liberty of Conſcience,</hi> until he or they have firſt taken and ſubſcribed the So<g ref="char:EOLhyphen"/>lemn Proteſtation following, before the ſaid Grand Commiſſioners and Farmers, or their Sub-Commiſſioners reſpectively.</p>
+            <pb n="6" facs="tcp:153073:5"/>
+            <q>
+               <p>I A. B. do here ſolemnly proteſt, That I judg my ſelf ſtill bound by the Solemn League and Covenant, by the Engage<g ref="char:EOLhyphen"/>ment, by private Church-Covenant, or by any other Oath which I have taken ever ſince the year 1641. and that ſo far as with ſafety to my perſon and Eſtate I may, I will endeavour the ut<g ref="char:EOLhyphen"/>ter extirpation of Epiſcopacy, and to the utmoſt of my power, will abet and promote all Schiſm, faction, and diſcord, both in Church and State, according to the beſt form and manner, pre<g ref="char:EOLhyphen"/>ſcribed and laid open in the Sermons of many of the Grand-Commiſſioners and Farmers, before the Parliament, appointed to be Printed, and now called the Homilies of the Separated Churches. And that I will never by what Conviction or Au<g ref="char:EOLhyphen"/>thority ſoever, whether legall or Epiſcopall, ever conſent to the Eſtabliſht Doctrine and diſcipline of the Church of England.</p>
+               <p>And I do likewiſe believe, That Liberty of Conſcience was a Myſterious, yet profitable talent committed to the Churches, and that it may be lawfully Farmed out for advantage and im<g ref="char:EOLhyphen"/>provement.</p>
+            </q>
+            <p>That no perſon within the Kingdom of <hi>England,</hi> Dominion of <hi>Wales,</hi> or Town of <hi>Barwick,</hi> may, from, and after the <hi>25</hi> day of <hi>March</hi> next, uſe or exerciſe any manner of <hi>Liberty of Conſcience,</hi> except per<g ref="char:EOLhyphen"/>ſons ſtanding conformable to the Church of <hi>England,</hi> untill ſuch per<g ref="char:EOLhyphen"/>ſon or perſons ſhall firſt take the Solemn Proteſtation, and ſhall com<g ref="char:EOLhyphen"/>pound with the ſaid Grand Commiſſioners and Farmers for <hi>Liber<g ref="char:EOLhyphen"/>ty of Conſcience,</hi> nor ſhall he be admitted or permitted to be a Spea<g ref="char:EOLhyphen"/>ker or Hearer, in any Meeting or Aſſemblies whatſoever.</p>
+            <p>That the ſaid Grand Commiſſioners and Farmers of <hi>Liberty of Conſcience,</hi> may have power to conſtitute under the Publique Seal of the ſaid Office, a convenient number of Spiritual Gagers, who may have and exerciſe all ſuch Powers, Priviledges, &amp; Authorities, as the Gagers for Excize of Beer and Ale, have, or ought to have and enjoy, and may at any time, in caſe of Suſpition, enter into any houſe or place, publike or private, to gage and try the Spirits and Affecti<g ref="char:EOLhyphen"/>ons of any perſon or perſons; and by Praying, Preaching, or other good Exhortation, diſſwade from Epiſcopacie, and the Common-Prayer, the better to fit and prepare them to compound for <hi>Liberty of Conſcience.</hi>
+            </p>
+            <p>That the ſaid Grand Commiſſioners and Farmers of <hi>Liberty of Conſcience,</hi> may have power to fine any perſon or perſons (not ex<g ref="char:EOLhyphen"/>ceeding the ſum of <hi>20 l.</hi> for every offence, who ſhall, after Compoſi<g ref="char:EOLhyphen"/>tion for <hi>Liberty of Conſcience,</hi> and ſubſcribing the <hi>Solemn Proteſtati<g ref="char:EOLhyphen"/>on,</hi>
+               <pb facs="tcp:153073:5"/> be preſent in any Church or Chappel, within the Kingdom of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> Dominion of <hi>Wales,</hi> and Town of <hi>Berwick,</hi> in the time of any part of Divine Service, unleſs at the Funeral of his Father or ſome other like occaſion: or, if being preſent at any ſuch occaſion, he ſhall either reſpond, be uncovered, or carry himſelf reverently, in the time of Divine Service aforeſaid.</p>
+            <p>That the ſaid Grand Commiſſioners and Farmers of <hi>Liberty of Conſcience</hi> or any <hi>24</hi> of them aſſembled at the Office aforeſaid, may have and exerciſe a Iuriſdiction of Appeal in all matters relating to <hi>Liberty of Conſcience,</hi> within the ſaid Kingdom of <hi>England,</hi> and ſhall have a concluſive power in all matters brought before them, by way of Appeal as aforeſaid.</p>
+            <p>That for the better management of all ſuch matters as ſhall be brought judicially before the ſaid Grand Commiſſioners &amp; Farmers of <hi>Liberty of Conſcience</hi> by way of Appeal the ſaid Grand Commiſſi<g ref="char:EOLhyphen"/>oners and Farmers, ſhall have power to conſtitute and appoint Mr. <hi>Oliver St. Johns,</hi> and ſuch others as they judge fit for their ſaid Ser<g ref="char:EOLhyphen"/>vice, to be of Standing-Councel with the ſaid Grand Commiſſioners and Farmers: And the ſaid Mr. <hi>Oliver St. Johns,</hi> being ſo conſtitu<g ref="char:EOLhyphen"/>ted and appointed under the Publick Seal of the ſaid Office, ſhall, and may be exempted and diſcharged from being in any Publike Of<g ref="char:EOLhyphen"/>fice, or place of Truſt or Profit, for the ſaid term of <hi>7</hi> years, any thing to the contrary notwithſtanding.</p>
+            <p>That if any perſon or perſons ſhall happen to be proceeded againſt in any of the Eccleſiaſtical Courts of the Biſhops of this Kingdome for Contumacy, for Non-Conformity, for non-payment of Tythes, and other Church-Duties, for publick rayling againſt the Biſhops, the Common-Prayer, or the Government of the Church of <hi>England,</hi> or ſhall ſpeak Oprobriouſly or Scandalouſly againſt the Doctrine or Diſci<g ref="char:EOLhyphen"/>pline thereof, as Antichriſtian, or ſhall maintain any Poſitions or Doctrines contrary thereunto: Every ſuch perſon producing a Certifi<g ref="char:EOLhyphen"/>cate from the ſaid Grand Commiſſioners and Farmers under the pub<g ref="char:EOLhyphen"/>like Seal of the ſaid Office, that ſuch perſon or perſons are under Com<g ref="char:EOLhyphen"/>poſition for Liberty of Conſcience, ſhall actually be diſcharged, and all further proceedings ſtayed; Any thing to the contrary notwithſtand<g ref="char:EOLhyphen"/>ing.</p>
+            <p>That if any perſons ſhall happen to be Indicted or Criminally pro<g ref="char:EOLhyphen"/>ceeded againſt in any of His Majeſties Courts at <hi>Weſtminſter,</hi> or elſe<g ref="char:EOLhyphen"/>where within the Kingdom of <hi>England,</hi> either for Treaſonable Spee<g ref="char:EOLhyphen"/>ches or Practiſes, for publike rayling at the Government, or for Scan<g ref="char:EOLhyphen"/>dalous words againſt either or both Houſes of Parliament, or for Tranſ<g ref="char:EOLhyphen"/>greſſing any of the Penal Laws and Statutes of this Kingdom; Eve<g ref="char:EOLhyphen"/>ry ſuch perſon or perſons producing a Certificate from the ſaid Grand
+<pb facs="tcp:153073:6"/> Commiſſioners and Farmers under the publike Seal of the ſaid Office, that ſuch perſon or perſons are under Compoſition for Liberty of Con<g ref="char:EOLhyphen"/>ſcience; and that ſuch words or practiſes were not ſpoken or acted <hi>mali<g ref="char:EOLhyphen"/>tioſe,</hi> but were only the natural and proper effects and product of Liber<g ref="char:EOLhyphen"/>ty of Conſcience, ſhall be diſcharged, and all further proceedings ſtayed; Any thing to the Contrary notwithſtanding.</p>
+            <p>That the ſaid Grand Commiſſioners and Farmers of Liberty of Con<g ref="char:EOLhyphen"/>ſcience, may have power from time to time to Ordain Paſtors, Elders, and Deacons, or any other Officers under any Adminiſtration whatſo<g ref="char:EOLhyphen"/>ever, by the laying on of the publique Seal of the Office: Which ſaid Impoſition of the ſaid publique Seal being received with a Certificate, ſhall be as lawful an Ordination, as if every ſuch perſon had received Impoſition from the hands of the Presbytery, Any late Vſage or Cu<g ref="char:EOLhyphen"/>ſtome to the contrary notwithſtanding.</p>
+            <p>That the ſaid Grand Commiſſioners and Farmers may have power from time to time, to ſet apart dayes for publique Faſtings, and Hu<g ref="char:EOLhyphen"/>miliation and Thankſgiving; on which dayes it may be lawful for any perſon or perſons appointed to Officiate before the ſaid Grand Commiſ<g ref="char:EOLhyphen"/>ſioners and Farmers, to ſtir up the people to a holy Indignation againſt themſelves, for having by their want of Zeal and Brotherly kindneſſe one towards another, loſt many pretious enjoyments; and above all, the never to be forgotten Loſſe of the late Power and Dominion, which with the Expence of ſo much Blood and Rapine, was put into the hands of the Saints. And to take up for a Lamentation and great thoughts of heart, the Diviſions of <hi>Ruben,</hi> That having our Sacks full, ſuch an evill ſpirit ſhould be found in the midſt of us, as to fall out by the way; might it have beén with thoſe that abode by the Stuff, as with thoſe that went out to the Battel, it had not beén with us as at this day. Some ſtarting aſide, like a broken Bow, in the year <hi>48;</hi> others conti<g ref="char:EOLhyphen"/>nuing to bear the burthen and heat of the day untill <hi>60,</hi> being harneſs'd, did then turn their backs in the day of Battel; as was moſt ſweetly handled at the Faſt kept Yeſterday at Mr. <hi>Beale's,</hi> by Mr. <hi>Callamy,</hi> Mr. <hi>Baxter,</hi> and others.</p>
+            <p>That the twentieth day of <hi>April</hi> next, commonly called <hi>Eaſter-Mon<g ref="char:EOLhyphen"/>day,</hi> be kept as a day of Solemn Faſting and Humiliation, for a Bleſ<g ref="char:EOLhyphen"/>ſing upon theſe Goſpel—Vndertakings, and that Mr. <hi>Edmond Calamy,</hi> Mr. <hi>Peter Sterry,</hi> Doctor <hi>Lazarus Seaman,</hi> and Mr. <hi>Feake,</hi> be deſired to carry on the Work of the Day in Prayer and Preaching, be<g ref="char:EOLhyphen"/>fore the ſaid Grand Farmers, and that the particulars following, be recommended to their Conſideration in the Work of the Day.</p>
+            <list>
+               <pb n="9" facs="tcp:153073:6"/>
+               <item>
+                  <hi>1.</hi> To Bewail,
+<list>
+                     <item>
+                        <hi>1.</hi> All our Court Sins.</item>
+                     <item>
+                        <hi>2.</hi> Our Biſhops Sins.</item>
+                     <item>
+                        <hi>3.</hi> Our Monk Sins.</item>
+                     <item>
+                        <hi>4.</hi> Our Common-Prayer Sins.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>2.</hi> To Divert,
+<list>
+                     <item>
+                        <hi>1.</hi> Weſtminſter-Hall Iudgments.</item>
+                     <item>
+                        <hi>2.</hi> Our Old-Bayly Iudgments.</item>
+                     <item>
+                        <hi>3.</hi> Our Tower-Hill Iudgments.</item>
+                     <item>
+                        <hi>4.</hi> Our Charing-Croſs Iudgments.</item>
+                     <item>
+                        <hi>5.</hi> Our Tyburn Iudgments.</item>
+                  </list>
+               </item>
+            </list>
+            <p>Laſtly, For deliverance from the Hand of <hi>Dun,</hi> that uncercumciſed Philiſtine.</p>
+            <p>That the ſaid Grand Commiſſioners, and Farmers of Liberty of Conſcience, may have power to build Churches and Chappels in any place or places, except upon ſuch Ground only where Churches or Chappels do already ſtand, in regard of the inconvenience of ſetting up Altar againſt Altar; And foraſmuch as the Cuſtom of Reading ſome part of the holy Bible before Sermon, commonly called firſt and ſecond Leſſons, hath been found fruitleſs, That therefore the ſaid Grand Commiſſioners &amp; Farmers may have power to appoint inſtead thereof, the Annual reading of thoſe Sermons preached by many of the ſaid Grand Commiſſioners and Farmers, before the Parliament, Vpon ſpecial Occaſions of Thankſgiving and Humiliation, from the Year <hi>1641,</hi> to the Year <hi>1648:</hi> Which ſaid Sermons may be called, The Homilies of the ſeparating Churches.</p>
+            <p>That the ſaid Grand Commiſſioners and Farmers may have power to require Mr. <hi>Gilbert Millington,</hi> and Mr. <hi>Luke Robinſon,</hi> the lame Evangeliſt, to deliver up all ſuch Articles, Orders, Books, Papers, and other Writings, as were tranſacted before the late Committee for plundered Miniſters; and likewiſe, all ſuch as were paſſed and tranſa<g ref="char:EOLhyphen"/>cted before Mr. <hi>Philip Ney,</hi> and ſome others of the now Grand Com<g ref="char:EOLhyphen"/>miſſioners and Farmers, and heretofore called Commiſſioners or Spiri<g ref="char:EOLhyphen"/>tual Tryers, to the end, the ſaid Articles, Orders, Books, and other Papers may be Printed and Publiſhed, and may be kept at the ſaid Office upon Record for ever, and appointed to be the Book of Canons of the ſeparated Churches.</p>
+            <p>All this being done, we may upon Scripture Grounds expect, that the door of Hope may yet be open to Vs, and Our Children after Vs, to
+<pb n="10" facs="tcp:153073:7"/> ſee the travell of our Souls, and to lett Vs into the promiſed Land, and to reap ſome of thoſe Cluſters of the Grapes of <hi>Canaan,</hi> which with ſo much Labour and Toyl of Body and Mind were planted, eſpecially in the Years of <hi>1641, 42, 43, 44, 45.</hi> by many of Vs, and other pre<g ref="char:EOLhyphen"/>cious Saints and Miniſters of the Goſpel, who are ſince fallen aſleép, and have, We hope, reaped the Fruits of thoſe Labours, the Lord ha<g ref="char:EOLhyphen"/>ving in that Day put a mighty Spirit into Vs, &amp; ſet Vs as Watchmen upon the Towers of <hi>Iſrael,</hi> to cry mightily, <hi>Curſe ye Meroze, Curſe ye bitterly;</hi> the Lord Grant, That thoſe Heart-breaking Labours of Ours, thoſe King-deſtroying Labours, theſe Kingdom-ruining Labours, thoſe Goſpel-ſcandalizing Labours, thoſe Church-ſubverting Labours, thoſe Soul-confounding Labors of Ours, may never be forgotten, but may be written as with the point of a Diamond, upon the Heart of the King, upon the Hearts of the Biſhops, upon the Heart of the Parliament, and upon the Hearts of all the People from <hi>Dan</hi> to <hi>Beerſheba,</hi> that ſo in Gods good time we may receive our Reward ſeven fold-into our own Boſomes, and that the Generations to come may hear and fear, and do no more ſo wickedly.</p>
+            <closer>
+               <signed>So prayes, B. G.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
